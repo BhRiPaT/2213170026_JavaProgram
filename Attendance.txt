@@ -1,4 +1,4 @@
 StudentID:2213170026
 Fullname:Bhuripat Wongsaroj
 AKA:BhRiPaT
-ClassDetail:
+ClassDetail: Lab Sheet 4 : String Methods and Defined Method
