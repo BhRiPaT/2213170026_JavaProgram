@@ -1,5 +1,5 @@
-Date : 12-Jan-2023
+Date : 26-Jan-2023
 StudentID:2213170026
 Fullname:Bhuripat Wongsaroj
 AKA:BhRiPaT
-ClassDetail: GUI
+ClassDetail: Composition and Inheritance
